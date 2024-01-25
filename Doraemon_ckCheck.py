@@ -1,6 +1,6 @@
 import requests
-from User_agent import generate_random_user_agent
-from logger import setup_logger
+from utils.User_agent import generate_random_user_agent
+from utils.logger import setup_logger
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # 初始化 log 对象
