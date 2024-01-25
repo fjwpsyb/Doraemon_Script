@@ -9,7 +9,7 @@
 - ### 青龙面板
 
     ```bash
-    https://github.com/fjwpsyb/Doraemon_Script.git "Doraemon_" "" "utils"
+    ql repo https://github.com/fjwpsyb/Doraemon_Script.git "Doraemon_" "" "utils"
     ```
 
 - ### 其它
