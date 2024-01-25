@@ -18,12 +18,10 @@
 
 ## 需要安装的依赖库
 
-需要 py 依赖 requests、colorlog
-
 ```bash
+# 需要 py 依赖 requests、colorlog
 python3 -m pip install requests colorlog
 ```
-
 
 
 # 主要功能
